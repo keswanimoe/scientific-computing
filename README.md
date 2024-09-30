@@ -1,4 +1,4 @@
-# A Collectiob of Scientific Algorithms
+# A Collection of Scientific Algorithms
 A collection of university assignments I completed in my second year studying Mathematics
 
 The emphasis of this module was focusing on practical knowledge of algorithms, as well as the methods for error estimation and analysis.
